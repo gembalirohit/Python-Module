@@ -6,5 +6,4 @@ Each day, I add a new folder with Python scripts, Jupyter notebooks, datasets, a
 
 ---
 
-## 📂 Repository Structure
 
